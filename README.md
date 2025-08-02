@@ -10,7 +10,6 @@ This project draws a cute animated heart using the Turtle graphics module in Pyt
 ```bash
 python AnimationByBiman.py
 
-## ❤️ Output Screenshot
+![Heart Animation Output](https://github.com/MrBimanRoy/turtle-heart-animation/blob/main/Output.png?raw=true)
 
-![Heart Animation Output](Output.png)
 
