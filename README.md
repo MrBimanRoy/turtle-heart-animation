@@ -8,4 +8,4 @@ This project draws a cute animated heart using the Turtle graphics module in Pyt
 
 ## ▶ Run the Script
 ```bash
-python animated_heart.py
+python AnimationByBiman.py
