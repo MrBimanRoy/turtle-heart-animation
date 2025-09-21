@@ -6,7 +6,7 @@ This project draws a cute animated heart using the Turtle graphics module in Pyt
 - Python 3.x
 - turtle module (usually included by default)
 
-- ![Heart Animation Output](heart.png)
+- ![Heart Animation Output](output.png)
 
 
 ## ▶ Run the Script
